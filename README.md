@@ -1,8 +1,8 @@
-# 💫 Hi 👋, I'm Vaishnavi Kale
+# 💫 Hi 👋, I'm Vaishnavi  
 **AI & Data Analytics Enthusiast | Machine Learning | Generative AI | Data Analysis | ETL | Visualization**
 
-📩 **Email me:** ✉️ vaishnavikale.sknsits.it@gmail.com 
-(Open for internships, collaborations, and learning opportunities and Project discussions)
+📩 **Email me:** ✉️ kalevaishanvi833@gmail.com  
+(Open for internships, collaborations, and learning opportunities)
 
 ---
 
@@ -35,9 +35,9 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/vaishnavi-kale-6846322a9/)  
-[![GitHub](https://github.com/kalevaishnavi04)  
-[![Email](vaishnavikale.sknsits.it@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/invaishnavi-kale-6846322a9)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kalevaishnavi04)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalevaishanvi833@gmail.com)
 
 ---
 
