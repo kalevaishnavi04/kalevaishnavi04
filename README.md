@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Vaishnavi  
 **AI & Data Analytics Enthusiast | Machine Learning | Generative AI | Data Analysis | ETL | Visualization**
 
-📩 **Email me:** ✉️ your-email@gmail.com  
-(Open for internships, collaborations, and learning opportunities)
+📩 **Email me:** ✉️ vaishnavikale.sknsits.it@gmail.com 
+(Open for internships, collaborations, and learning opportunities and Project discussions)
 
 ---
 
