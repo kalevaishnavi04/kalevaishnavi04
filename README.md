@@ -35,9 +35,9 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kalevaishnavi04)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/vaishnavi-kale-6846322a9/)  
+[![GitHub](https://github.com/kalevaishnavi04)  
+[![Email](vaishnavikale.sknsits.it@gmail.com)
 
 ---
 
