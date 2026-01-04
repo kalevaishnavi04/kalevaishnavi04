@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Vaishnavi  
+# 💫 Hi 👋, I'm Vaishnavi Kale
 **AI & Data Analytics Enthusiast | Machine Learning | Generative AI | Data Analysis | ETL | Visualization**
 
 📩 **Email me:** ✉️ vaishnavikale.sknsits.it@gmail.com 
