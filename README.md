@@ -1,73 +1,111 @@
-# Hi there, I'm Vaishnavi Kale 👋
 
-**AI/ML & Data Analytics Enthusiast | Python | SQL | Machine Learning | Generative AI | Data Analytics**
 
-I'm passionate about building practical applications using **Python, Machine Learning, Generative AI, Data Analytics, and full-stack technologies**. I enjoy turning real-world problems into useful software solutions, experimenting with AI-powered applications, and continuously improving my technical skills through hands-on projects.
 
----
+Vaishnavi Kale - Python Developer | AI/ML Portfolio
+About
+Hi, I'm Vaishnavi! I'm a Python Developer and AI/ML & Data Analytics Enthusiast based in Pune, India. I enjoy building practical applications using Python, Django, FastAPI, Machine Learning, Generative AI, SQL, and full-stack technologies.
 
-## 👤 About Me
+I focus on turning real-world problems into useful software solutions — from data processing and machine learning models to backend APIs, web applications, automation workflows, and AI-powered applications.
 
-* 🔭 **Currently Building:** AI/ML applications, data analytics projects, and full-stack applications with real-world use cases.
-* 📚 **Currently Learning:** Machine Learning, Generative AI, Python, SQL, Power BI, data analytics, and modern AI application development.
-* 🤝 **Looking to Collaborate On:** AI/ML projects, data analytics, Generative AI applications, automation tools, and open-source projects.
-* 💬 **Ask Me About:** Python, Machine Learning, Data Analysis, Generative AI, SQL, Django, Flask, Streamlit, and AI-powered applications.
-* 🎯 **Career Focus:** Building production-oriented projects that combine data, AI, automation, and software development.
-* ⚡ **Fun Fact:** I enjoy turning an idea into a working application and learning something new from every project.
+My GitHub profile: kalevaishnavi04
+My LinkedIn: Vaishnavi Kale
+My Email: kalevaishnavi833@gmail.com
 
----
+This repository serves as a portfolio of my projects and a record of my hands-on learning in Python Development, Backend Development, Machine Learning, Generative AI, Data Analytics, and Software Development.
 
-## 🏆 Featured Projects
+Table of Contents
+About
 
-### 🧠 Mental Health Score Prediction
+Portfolio Projects
 
-**Machine Learning + FastAPI + Web Application**
+MindPulse - Mental Health Score Prediction
+
+IntellMeet - AI Meeting Platform
+
+RAG AI Chatbot
+
+SOS Emergency Contact & Location Tracking System
+
+QR Code Attendance System
+
+AI Image Studio
+
+ATS Resume Score Checker
+
+Computer Vision Projects
+
+Skills & Technologies
+
+Project Development Workflow
+
+What I Build
+
+GitHub Statistics
+
+Connect With Me
+
+Current Focus
+
+Portfolio Projects
+In this section I showcase projects that demonstrate my experience with Python, backend development, machine learning, Generative AI, APIs, databases, automation, and full-stack development.
+
+MindPulse - Mental Health Score Prediction
+Machine Learning + FastAPI + Web Application
 
 An end-to-end machine learning application that predicts a student's mental health score using lifestyle, academic, social-media, sleep, physical-activity, and stress-related factors.
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Joblib, FastAPI, HTML, CSS, JavaScript
+Skills: Data preprocessing, EDA, feature engineering, regression, model serialization, REST API development, frontend integration.
 
-**Key Features:**
+Technology: Python, Pandas, NumPy, Scikit-learn, Joblib, FastAPI, HTML, CSS, JavaScript.
 
-* Exploratory Data Analysis
-* Data preprocessing and feature engineering
-* Regression-based prediction
-* Serialized ML model using Joblib
-* REST API using FastAPI
-* Web-based prediction interface
-* Deployable end-to-end ML workflow
+Key Features:
 
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/mental-health-score-prediction)**
+Exploratory Data Analysis
 
-The repository documents the complete workflow from data preparation and regression modeling to FastAPI deployment.
+Data preprocessing and feature engineering
 
----
+Regression-based prediction
 
-### 🤖 IntellMeet — AI Meeting Platform
+ML model serialization using Joblib
 
-**AI + Full Stack + Real-Time Collaboration**
+REST API using FastAPI
 
-An AI-powered meeting and collaboration platform designed to combine video meetings, real-time communication, AI-generated summaries, action items, and meeting history into one workflow.
+Web-based prediction interface
 
-**Tech Stack:** MERN Stack, MongoDB Atlas, Socket.io, WebRTC, OpenAI API
+End-to-end deployment workflow
 
-**Key Features:**
+Code: Go to repository
+Live Demo: Open application
 
-* Video meetings
-* Real-time collaboration
-* Team communication
-* AI-generated meeting summaries
-* Action-item generation
-* Meeting scheduling
-* Meeting history
-* Notifications
+IntellMeet - AI Meeting Platform
+AI + Full Stack + Real-Time Collaboration
 
-🌐 **[Live Demo](https://intellmeet-meeting-1.onrender.com)**
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/INTELLMEET-MEETING)**
+An AI-powered meeting and collaboration platform designed to combine video meetings, real-time communication, AI-generated summaries, action items, scheduling, notifications, and meeting history into one workflow.
 
-The project is designed around the workflow:
+Skills: Full-stack development, real-time communication, API integration, AI integration, collaboration workflows.
 
-```text
+Technology: MERN Stack, MongoDB Atlas, Socket.io, WebRTC, OpenAI API.
+
+Key Features:
+
+Video meetings
+
+Real-time collaboration
+
+Team communication
+
+AI-generated meeting summaries
+
+Action-item generation
+
+Meeting scheduling
+
+Meeting history
+
+Notifications
+
+Workflow:
+
 Meeting
    ↓
 Real-Time Collaboration
@@ -77,307 +115,282 @@ AI Summary
 Action Items
    ↓
 Meeting History
-```
+Code: Go to repository
+Live Demo: Open application
 
----
+RAG AI Chatbot
+Retrieval-Augmented Generation + LLM + Document Question Answering
 
-### 🚨 SOS Emergency Contact & Location Tracking System
+An AI-powered chatbot designed to answer questions using information retrieved from a provided knowledge base. The project combines document retrieval with a language model so that responses are grounded in the available source content instead of relying only on the model's general knowledge.
 
-**Django + GPS + WhatsApp Automation**
+Skills: RAG pipeline development, document processing, semantic search, embeddings, prompt engineering, LLM integration, conversational AI.
 
-A Django-based safety application that enables users to trigger a one-tap SOS alert, capture their current GPS location, generate a Google Maps location link, and send the alert to saved emergency contacts through WhatsApp.
+Technology: Python, LangChain, Vector Database, Embeddings, LLM API, Streamlit.
 
-**Tech Stack:** Python, Django, SQLite, Twilio WhatsApp API, GPS, Google Maps
+Key Features:
 
-**Key Features:**
+Document-based question answering
 
-* One-tap SOS workflow
-* GPS location capture
-* Google Maps location generation
-* Emergency contact management
-* WhatsApp emergency notifications
-* Automated alert distribution
-* Deployed web application
+Retrieval-Augmented Generation (RAG) workflow
 
-🌐 **[Live Demo](https://sos-emergency-contact-system-main.onrender.com/)**
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/SOS-Emergency_Contact-System-main)**
+Document chunking and processing
 
-The application automates the emergency workflow from **SOS → GPS capture → location link → WhatsApp notification → saved contacts**.
+Embedding-based semantic search
 
----
+Relevant context retrieval
 
-### 📱 QR Code Attendance System
+LLM-powered response generation
 
-**Django + QR Code + Attendance Analytics**
+Conversational chatbot interface
 
-A QR-based attendance management system that automates classroom attendance using time-limited QR codes.
+Knowledge-grounded responses
 
-**Tech Stack:** Python, Django, SQLite, QR Code, HTML, CSS, JavaScript
+Workflow:
 
-**Key Features:**
+User Question
+      ↓
+Query Processing
+      ↓
+Embedding Generation
+      ↓
+Vector Search / Retrieval
+      ↓
+Relevant Context
+      ↓
+LLM + Retrieved Context
+      ↓
+Generated Answer
+Code: Go to repository
 
-* Session-based QR code generation
-* Time-limited attendance sessions
-* QR-based student attendance
-* Duplicate attendance prevention
-* Teacher dashboard
-* Student management
-* Attendance reports
-* Excel export
-* Admin management
+SOS Emergency Contact & Location Tracking System
+Django + GPS + WhatsApp Automation
 
-🌐 **[Live Demo](https://qr-code-attendance-system-l04f.onrender.com)**
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/QR_code-Attendance-System)**
+A Django-based safety application that enables users to trigger a one-tap SOS alert, capture their current GPS location, generate a Google Maps location link, and send emergency notifications to saved contacts through WhatsApp.
 
-The system creates a relationship between:
+Skills: Django development, backend logic, API integration, location handling, automation.
 
-```text
+Technology: Python, Django, SQLite, Twilio WhatsApp API, GPS, Google Maps.
+
+Key Features:
+
+One-tap SOS workflow
+
+GPS location capture
+
+Google Maps location generation
+
+Emergency contact management
+
+WhatsApp emergency notifications
+
+Automated alert distribution
+
+Deployed web application
+
+Workflow:
+
+SOS Trigger
+    ↓
+GPS Location Capture
+    ↓
+Google Maps Location Link
+    ↓
+WhatsApp Notification
+    ↓
+Emergency Contacts
+Code: Go to repository
+Live Demo: Open application
+
+QR Code Attendance System
+Django + QR Code + Attendance Management
+
+A QR-based attendance management system that automates classroom attendance using time-limited QR codes and maintains attendance records through a Django web application.
+
+Skills: Django, database management, authentication, QR-based workflows, reporting, automation.
+
+Technology: Python, Django, SQLite, QR Code, HTML, CSS, JavaScript.
+
+Key Features:
+
+Session-based QR code generation
+
+Time-limited attendance sessions
+
+QR-based student attendance
+
+Duplicate attendance prevention
+
+Teacher dashboard
+
+Student management
+
+Attendance reports
+
+Excel export
+
+Admin management
+
+Workflow:
+
 Student
    ↓
 Subject
    ↓
 Class Session
    ↓
+QR Code
+   ↓
 Attendance Record
-```
+   ↓
+Attendance Report
+Code: Go to repository
+Live Demo: Open application
 
----
-
-### 🎨 AI Image Studio
-
-**Generative AI + Streamlit**
+AI Image Studio
+Generative AI + Streamlit
 
 An AI-powered image generation application built with Streamlit that integrates image generation APIs and Gemini-based prompt enhancement.
 
-**Tech Stack:** Python, Streamlit, Pollinations API, Gemini API
+Skills: Generative AI integration, prompt enhancement, API integration, interactive UI development.
 
-**Key Features:**
+Technology: Python, Streamlit, Pollinations API, Gemini API.
 
-* AI image generation
-* Prompt enhancement
-* Surprise Me functionality
-* Session-based image gallery
-* Gemini integration
-* Web-based UI
+Key Features:
 
-🌐 **[Live Demo](https://ai-image-studio-t8es.onrender.com/)**
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/ai-image-studio)**
+AI image generation
 
----
+Prompt enhancement
 
-### 📄 ATS Resume Score Checker
+Surprise Me functionality
 
-**NLP + Resume Analysis + Web Application**
+Session-based image gallery
 
-A web-based application that analyzes resumes against job descriptions and calculates an ATS compatibility score.
+Gemini integration
 
-**Tech Stack:** Python, Flask/Streamlit, HTML, CSS, JavaScript, NLP, Regex, PDF Parsing
+Web-based UI
 
-**Key Features:**
+Code: Go to repository
+Live Demo: Open application
 
-* Resume PDF/DOCX upload
-* Job description analysis
-* ATS compatibility scoring
-* Keyword matching
-* Missing skill identification
-* Matched skill analysis
-* Resume improvement suggestions
+ATS Resume Score Checker
+NLP + Resume Analysis + Web Application
 
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/ATS_SCORE-CHECK)**
+A web-based application that analyzes resumes against job descriptions and calculates an ATS compatibility score by comparing resume content with job-specific keywords.
 
-The scoring workflow compares resume content with job-specific keywords and evaluates content coverage.
+Skills: NLP, text processing, keyword matching, document parsing, web application development.
 
----
+Technology: Python, Flask/Streamlit, HTML, CSS, JavaScript, NLP, Regex, PDF Parsing.
 
-### 👁️ Computer Vision Projects
+Key Features:
 
-**OpenCV + Machine Learning**
+Resume PDF/DOCX upload
+
+Job description analysis
+
+ATS compatibility scoring
+
+Keyword matching
+
+Missing skill identification
+
+Matched skill analysis
+
+Resume improvement suggestions
+
+Code: Go to repository
+
+Computer Vision Projects
+OpenCV + Machine Learning
 
 A collection of computer vision experiments focused on practical image-processing and detection tasks.
 
-**Tech Stack:** Python, OpenCV, Jupyter Notebook
+Skills: Image processing, computer vision, object detection, face detection.
 
-**Areas Covered:**
+Technology: Python, OpenCV, Jupyter Notebook.
 
-* Face detection
-* Object detection
-* Computer vision fundamentals
-* Image processing
+Areas Covered:
 
-🔗 **[GitHub Repository](https://github.com/kalevaishnavi04/Computer_Vision_Project_AIML)**
+Face detection
 
----
+Object detection
 
-## 🛠️ Tech Stack
+Computer vision fundamentals
 
-### 👩‍💻 Programming
+Image processing
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-</p>
+Code: Go to repository
 
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-### 📊 Data Analysis & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-### 🤖 Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-### 🧠 Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### 🌐 Backend & Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,streamlit" />
-</p>
-
-### ☁️ Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,firebase,vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-</p>
-
-### 🧰 Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 🔄 Project Development Workflow
-
-```text
+Skills & Technologies
+Category	Skills
+Languages	Python, JavaScript, SQL
+Backend Development	Django, Flask, FastAPI, REST APIs
+Frontend / Full Stack	HTML, CSS, JavaScript, React, MERN
+Databases	MySQL, MongoDB, SQLite, PostgreSQL
+Data Analysis	Pandas, NumPy, Matplotlib, EDA
+Machine Learning	Scikit-learn, Regression, Classification, Feature Engineering
+Generative AI	OpenAI API, Gemini API, LangChain, Prompt Engineering
+RAG & LLM	LangChain, Embeddings, Vector Search, Retrieval-Augmented Generation
+Computer Vision	OpenCV, Image Processing, Object Detection
+APIs & Integration	REST APIs, Twilio WhatsApp API, Google Maps, WebRTC
+Deployment	Render
+Tools	Git, GitHub, VS Code, Jupyter Notebook, Postman
+Project Development Workflow
 Real-World Problem
-        │
-        ▼
+        ↓
 Problem Understanding
-        │
-        ▼
+        ↓
 Data / User Input Collection
-        │
-        ▼
+        ↓
 Data Processing / Backend Logic
-        │
-        ▼
+        ↓
 Machine Learning / AI / Business Logic
-        │
-        ▼
+        ↓
 API / Application Development
-        │
-        ▼
+        ↓
 Frontend / Dashboard
-        │
-        ▼
+        ↓
 Testing
-        │
-        ▼
+        ↓
 Deployment
-        │
-        ▼
+        ↓
 Continuous Improvement
-```
+What I Build
+Area	Projects / Experience
+Python Development	Python-based applications and automation
+Backend Development	Django, Flask, FastAPI, REST APIs
+Machine Learning	Predictive modeling and regression applications
+Generative AI	AI image generation and AI-powered applications
+RAG / LLM Applications	Retrieval-Augmented Generation and knowledge-grounded chatbots
+NLP	Resume and job-description analysis
+Computer Vision	Face detection, object detection, image processing
+Full Stack	MERN-based real-time applications
+Automation	QR attendance and emergency alert workflows
+APIs	REST APIs and third-party API integration
+Deployment	Render and web application deployment
+Databases	MySQL, MongoDB, SQLite, PostgreSQL
+GitHub Statistics
 
----
 
-## 📊 What I Build
 
-| Area                | Projects / Experience                           |
-| ------------------- | ----------------------------------------------- |
-| Data Analytics      | Data analysis, visualization, dashboards        |
-| Machine Learning    | Predictive modeling and regression              |
-| Generative AI       | AI image generation and AI-powered applications |
-| NLP                 | Resume and job-description analysis             |
-| Computer Vision     | Face and object detection                       |
-| Backend Development | Django, Flask, FastAPI                          |
-| Full Stack          | MERN-based applications                         |
-| Automation          | QR attendance, emergency alert workflows        |
-| Deployment          | Render and web application deployment           |
-| Databases           | MySQL, MongoDB, SQLite                          |
 
----
 
-## 📈 GitHub Statistics
 
-<p align="center">
+Contribution Snake
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalevaishnavi04&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalevaishnavi04&layout=compact&theme=github_dark&hide_border=true"/>
+Connect With Me
+LinkedIn: Vaishnavi Kale
 
-</p>
+GitHub: kalevaishnavi04
 
-<p align="center">
+Email: kalevaishnavi833@gmail.com
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalevaishnavi04&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/vaishnavi-kale-6846322a9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kalevaishnavi04">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:kalevaishanvi833@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🚀 Current Focus
-
+Current Focus
 I'm currently focused on building projects that combine:
 
-**Data → AI → Automation → Applications → Real-World Impact**
+Python → Backend Development → Data → AI/ML → RAG/LLMs → Generative AI → Automation → Real-World Applications
 
-My goal is to continuously improve my skills by building practical, end-to-end projects rather than only working on theoretical exercises.
+My goal is to strengthen my software development skills by building practical, end-to-end projects rather than only working on theoretical exercises.
 
----
-
-### ⭐ Thanks for visiting my profile!
-
+⭐ Thanks for visiting my profile!
 If you find any of my projects useful or interesting, feel free to explore the repositories and leave a ⭐.
