@@ -100,8 +100,6 @@ In this section I list my software development, AI/ML, Generative AI, and backen
 
 **Code:** [go to repo..](https://github.com/kalevaishnavi04/QRCODE-Attendance-System.git)
 
-**Live Demo:** [go to demo..]()
-
 **Description:** A QR-based attendance management system that automates classroom attendance using time-limited QR codes.
 
 **Skills:** Django development, QR code workflow, database management, attendance tracking, reporting.
