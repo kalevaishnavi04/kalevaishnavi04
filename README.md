@@ -28,7 +28,6 @@ This repository serves to showcase my skills and as a platform to share my proje
   * [MindPulse - Mental Health Score Prediction](#mindpulse---mental-health-score-prediction)
   * [IntellMeet - AI Meeting Platform](#intellmeet---ai-meeting-platform)
   * [RAG AI Chatbot](#rag-ai-chatbot)
-  * [SOS Emergency Contact & Location Tracking System](#sos-emergency-contact--location-tracking-system)
   * [QR Code Attendance System](#qr-code-attendance-system)
   * [AI Image Studio](#ai-image-studio)
   * [ATS Resume Score Checker](#ats-resume-score-checker)
@@ -96,20 +95,6 @@ In this section I list my software development, AI/ML, Generative AI, and backen
 **Technology:** Python, LangChain, LangGraph, FastAPI, Streamlit, Ollama/LLM, Embeddings.
 
 **Results:** A RAG-based conversational workflow connecting user queries, document retrieval, relevant context, and LLM-generated responses.
-
-### SOS Emergency Contact & Location Tracking System
-
-**Code:** [go to repo..](https://github.com/kalevaishnavi04/SOS-Emergency_Contact-System-main)
-
-**Live Demo:** [go to demo..](https://sos-emergency-contact-system-main.onrender.com/)
-
-**Description:** A Django-based emergency application that enables users to trigger a one-tap SOS alert, capture their GPS location, generate a Google Maps location link, and send emergency notifications through WhatsApp.
-
-**Skills:** Django development, API integration, authentication, database management, GPS integration, automation.
-
-**Technology:** Python, Django, SQLite, Twilio WhatsApp API, Google Maps, GPS.
-
-**Results:** An automated emergency workflow connecting SOS activation, location capture, map-link generation, and emergency notifications.
 
 ### QR Code Attendance System
 
