@@ -28,7 +28,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   * [MindPulse - Mental Health Score Prediction](#mindpulse---mental-health-score-prediction)
   * [IntellMeet - AI Meeting Platform](#intellmeet---ai-meeting-platform)
   * [RAG AI Chatbot](#rag-ai-chatbot)
-  * [QR Code Attendance System](#qr-code-attendance-system)
+  * [QR Code Attendance System](#https://github.com/kalevaishnavi04/QRCODE-Attendance-System.git)
   * [AI Image Studio](#ai-image-studio)
   * [ATS Resume Score Checker](#ats-resume-score-checker)
   * [Computer Vision Projects](#computer-vision-projects)
@@ -98,9 +98,9 @@ In this section I list my software development, AI/ML, Generative AI, and backen
 
 ### QR Code Attendance System
 
-**Code:** [go to repo..](https://github.com/kalevaishnavi04/QR_code-Attendance-System)
+**Code:** [go to repo..](https://github.com/kalevaishnavi04/QRCODE-Attendance-System.git)
 
-**Live Demo:** [go to demo..](https://qr-code-attendance-system-l04f.onrender.com/)
+**Live Demo:** [go to demo..]()
 
 **Description:** A QR-based attendance management system that automates classroom attendance using time-limited QR codes.
 
