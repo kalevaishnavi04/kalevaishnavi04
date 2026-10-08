@@ -28,7 +28,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   * [MindPulse - Mental Health Score Prediction](#mindpulse---mental-health-score-prediction)
   * [IntellMeet - AI Meeting Platform](#intellmeet---ai-meeting-platform)
   * [RAG AI Chatbot](#rag-ai-chatbot)
-  * [QR Code Attendance System](#https://github.com/kalevaishnavi04/QRCODE-Attendance-System.git)
+  * [QR Code Attendance System](#qr-code-attendance-system)
   * [AI Image Studio](#ai-image-studio)
   * [ATS Resume Score Checker](#ats-resume-score-checker)
   * [Computer Vision Projects](#computer-vision-projects)
