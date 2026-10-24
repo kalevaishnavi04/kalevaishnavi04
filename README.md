@@ -87,6 +87,8 @@ In this section I list my software development, AI/ML, Generative AI, and backen
 ### RAG AI Chatbot
 
 **Code:** [go to repo..](https://github.com/kalevaishnavi04)
+**Live Demo:** [go to demo..](https://pdf-rag-chatbot-ipkl.onrender.com/)
+
 
 **Description:** A Retrieval-Augmented Generation chatbot designed to answer questions from a knowledge base by retrieving relevant information and passing the retrieved context to an LLM.
 
