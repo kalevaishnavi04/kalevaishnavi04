@@ -7,7 +7,7 @@ Hi, I'm Vaishnavi! I'm a Python Developer and AI/ML enthusiast based in Pune, In
 I completed my B.E. in Information Technology and have worked on practical projects involving machine learning, backend development, real-time applications, computer vision, Generative AI, and RAG-based applications.
 
 My GitHub profile: [kalevaishnavi04](https://github.com/kalevaishnavi04)
-My portfolio site: [kalevaishnavi04.github.io/vaishnavi-portfolio](https://kalevaishnavi04.github.io/vaishnavi-portfolio/)
+My portfolio site: [kalevaishnavi04.github.io/vaishnavi-portfolio]()
 My LinkedIn profile: [Vaishnavi Kale](https://www.linkedin.com/in/vaishnavi-kale-6846322a9/)
 
 <br>
